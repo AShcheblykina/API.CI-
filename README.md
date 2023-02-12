@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x4y587cfwioy55w6/branch/main?svg=true)](https://ci.appveyor.com/project/Anastasia/api-ci-swaa2/branch/main)
+[![Java CI with Gradle](https://github.com/AShcheblykina/API.CI-/actions/workflows/gradle.yml/badge.svg)](https://github.com/AShcheblykina/API.CI-/actions/workflows/gradle.yml)
